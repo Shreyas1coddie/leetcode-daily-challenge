@@ -23,4 +23,8 @@ class Solution {
                             backtrack(candidates,target,index+1,current,ans);
                             
                             }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> bcad241 (Day-58 Solutions)
