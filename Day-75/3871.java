@@ -10,7 +10,7 @@ class Solution {
        long start =1000;
        long comma =1;
 
-       while(start<n){
+       while(start<=n){
         long end = start*1000-1;
         long numbers;
 
